@@ -41,3 +41,20 @@
 /^.*pcdn.*youku\.com^
 /^.*p2p.*douyucdn\.cn^
 /^.*p2p.*qq\.com^
+
+# Chxyun PCDN
+||smogfly.cn
+||smogfly.club
+||smogfly.cloud
+||smogfly.net
+||jwbwc.cn
+||wuchucloud.net
+||wuchucloud.com
+||wuchuyun.com
+||wuchuyun.net
+||smogflycloud.com
+||smogfly.com.cn
+||wuchucloud.cn
+||wuchucloud.net
+||wuchucloud.com
+||smogfly.net
