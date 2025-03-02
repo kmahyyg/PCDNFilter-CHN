@@ -58,3 +58,14 @@
 ||wuchucloud.net
 ||wuchucloud.com
 ||smogfly.net
+
+# NiuLinkCloud / Maque Cloud
+# offered by @yyysuo , thanks a lot!
+# Other domain names registered under the same legal entity are extracted from MIIT
+||ietheivaicai.com
+||cdnchatgpt.com
+||aigccdn.com
+||quupawotooro.com
+||imetacdn.com
+||niulinkcloud.cn
+||niulinkcloud.com
